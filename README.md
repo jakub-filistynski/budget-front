@@ -5,8 +5,8 @@ The budget consists of income and expenses. They are grouped into categories.
 
 ## Technologies
 * React
-* Redux Toolkit
 * ESLint/Prettier
+* TypeScript
 * Docker
 
 ## Instruction
